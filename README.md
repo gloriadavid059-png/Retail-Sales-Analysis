@@ -9,7 +9,7 @@ The dashboard provides a clear view of:
 - *Total Sales:* $323.0K  
 - *Total Cost:* $307.6K  
 - *Gross Income:* $15.4K  
-
+![Retail Sales Dashboard](Retail_Sales_Dashboard.png)
 It also highlights performance across categories, cities, genders, and payment methods.  
 
 ## 🔍 Key Insights
@@ -30,3 +30,4 @@ It also highlights performance across categories, cities, genders, and payment m
 ## 📢 Conclusion
 This project demonstrates how Excel can be used for *data cleaning, analysis, and visualization*.  
 The dashboard provides actionable insights into product performance, customer behavior, and sales trends.
+
