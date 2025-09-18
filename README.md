@@ -9,7 +9,7 @@ The dashboard provides a clear view of:
 - *Total Sales:* $323.0K  
 - *Total Cost:* $307.6K  
 - *Gross Income:* $15.4K  
-![Retail Sales Dashboard](Retail_Sales_Analysis.png)
+![Retail Sales Analysis](Retail_Sales_Analysis.png)
 It also highlights performance across categories, cities, genders, and payment methods.  
 
 ## 🔍 Key Insights
