@@ -8,9 +8,11 @@ The goal was to track performance, identify sales drivers, and design a dashboar
 The dashboard provides a clear view of:
 - *Total Sales:* $323.0K  
 - *Total Cost:* $307.6K  
-- *Gross Income:* $15.4K
-- ![Retail Sales Dashboard](Retail_Sales_Analysis.png)
+- *Gross Income:* $15.4K  
+
 It also highlights performance across categories, cities, genders, and payment methods.  
+
+![Retail Sales Dashboard](Retail_Sales_Analysis.png)
 
 ## 🔍 Key Insights
 - *Top Categories by Gross Income:* Sports and Travel, Food and Beverages, and Home and Lifestyle generated the highest profit.  
@@ -25,9 +27,8 @@ It also highlights performance across categories, cities, genders, and payment m
 
 ## 📂 Files in this Repository
 - Retail_Sales_Analysis.xlsx → cleaned dataset, Pivot Tables, and dashboard  
-- Retail_Sales_Dashboard.png → screenshot of the final dashboard  
+- Retail_Sales_Analysis.png → screenshot of the Excel dashboard  
 
 ## 📢 Conclusion
 This project demonstrates how Excel can be used for *data cleaning, analysis, and visualization*.  
 The dashboard provides actionable insights into product performance, customer behavior, and sales trends.
-
