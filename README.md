@@ -11,7 +11,6 @@ The dashboard provides a clear view of:
 - *Gross Income:* $15.4K  
 
 It also highlights performance across categories, cities, genders, and payment methods.  
-
 ![Retail Sales Dashboard](Retail_Sales_Analysis.png)
 
 ## 🔍 Key Insights
