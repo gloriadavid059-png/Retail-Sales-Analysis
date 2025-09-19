@@ -11,7 +11,8 @@ The dashboard provides a clear view of:
 - *Gross Income:* $15.4K  
 
 It also highlights performance across categories, cities, genders, and payment methods.  
-![Retail Sales Dashboard](Retail_Sales_Analysis.png)
+![Retail Sales Dashboard](Retail_Sales_Analysis.png<img width="1583" height="763" alt="Retail_Sales_Analysis" src="https://github.com/user-attachments/assets/8bc44e5e-5fd6-4de3-b0a2-2e33663fc0a7" />
+)
 
 ## 🔍 Key Insights
 - *Top Categories by Gross Income:* Sports and Travel, Food and Beverages, and Home and Lifestyle generated the highest profit.  
