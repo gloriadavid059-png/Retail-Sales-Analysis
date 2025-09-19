@@ -12,8 +12,7 @@ The dashboard provides a clear view of:
 
 It also highlights performance across categories, cities, genders, and payment methods.  
 #DASHBOARD
-(Retail_Sales_Analysis.png<img width="1583" height="763" alt="Retail_Sales_Analysis" src="https://github.com/user-attachments/assets/8bc44e5e-5fd6-4de3-b0a2-2e33663fc0a7" />
-)
+[Retail_Sales_Analysis.png](<img width="1583" height="763" alt="Retail_Sales_Analysis" src="https://github.com/user-attachments/assets/ba8f68b1-b585-4075-ba27-7ca2a28efd63" />
 
 ## 🔍 Key Insights
 - *Top Categories by Gross Income:* Sports and Travel, Food and Beverages, and Home and Lifestyle generated the highest profit.  
